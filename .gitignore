@@ -1,0 +1,7 @@
+build/
+out/
+gradle/
+.idea/
+.gradle/
+classes/
+src/main/java/global/
